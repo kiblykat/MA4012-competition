@@ -4,3 +4,5 @@
 
 C Code logic for competition where rules are to search and collect a tennis ball within a play area, against an opponent.
 Code is implemented on a VEX Cortex microcontroller utilizing various sensors and actuators.
+
+Video: https://www.youtube.com/watch?v=dkav24JsHlE&ab_channel=ayampenyet
